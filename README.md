@@ -1,1 +1,9 @@
 # config_server
+
+didispace.application是didispace微服务默认的配置文件
+
+didispace-dev.application是didispace微服务开发环境的配置文件
+
+didispace-test.application是didispace微服务测试环境的配置文件
+
+didispace-pro.application是didispace微服务生产环境的配置文件
